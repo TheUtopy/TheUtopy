@@ -4,14 +4,15 @@
 
 ### Actuellement aprenant chez [Ada Tech School](https://adatechschool.fr/)
 
-- Je travaille sur un projet perso [PDF MERGER](https://github.com/TheUtopy/PDF-Merger)
 - N'hésitez à me contacter à [kevin.chron@gmail.com](mailto:kevin.chron@gmail.com)
 
 ### Projets Realisés :
 
-- [PICO 8](https://github.com/TheUtopy/projet-collectif---pico8-alisavin)
-- [DATAVIZ API](https://github.com/TheUtopy/projet-collectif---dataviz-api-quendreavin)
+- [PLATEFORME DE VENTE DE MEUBLE](https://github.com/TheUtopy/projet-collectif---plateforme-de-vente-de-meubles-meublea)
+- [RESEAU SOCIAL](https://github.com/TheUtopy/projet-collectif---reseau-social-php-game4ever)
 - [EXTENSION CHROME](https://github.com/TheUtopy/projet-collectif---extension-chrome-kevin-edward-marion)
+- [DATAVIZ API](https://github.com/TheUtopy/projet-collectif---dataviz-api-quendreavin)
+- [PICO 8](https://github.com/TheUtopy/projet-collectif---pico8-alisavin)
 
 ### Réseaux :
 
