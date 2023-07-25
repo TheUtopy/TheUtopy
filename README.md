@@ -4,6 +4,7 @@
 
 ### Actuellement aprenant chez [Ada Tech School](https://adatechschool.fr/)
 
+- Je travaille en ce moment sur un projet perso : un site où des personnes apprenant un instrument de musique peuvent se partager des tips et leur progression respective. [Vous pouvez retrouver le projet ici](https://github.com/TheUtopy/MelodySync).
 - N'hésitez à me contacter à [kevin.chron@gmail.com](mailto:kevin.chron@gmail.com)
 
 ### Projets Realisés :
